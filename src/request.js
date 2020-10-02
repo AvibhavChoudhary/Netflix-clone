@@ -13,4 +13,7 @@ const request = {
 
 export default request;
 
+// API_KEY = "eb65242deb96c5708f8b43fc49cf2d40";
+// BACKEND_API = "eb65242deb96c5708f8b43fc49cf2d40";
+
 //postman testing--https://api.themoviedb.org/3/movie/550?api_key=eb65242deb96c5708f8b43fc49cf2d40
